@@ -1,0 +1,36 @@
+body{
+	background-color: blue;
+}
+
+.block{
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+}
+
+section {
+	width: 300px;
+	padding-left: 100px;
+}
+
+.blockdiv {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding-left: 100px;
+	margin-top: 40px;
+}
+
+.margin{
+	margin-right: 30px;
+}
+
+.google-map {
+	width: 63px;
+	height: 197px;
+}
+
